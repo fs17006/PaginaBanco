@@ -18,3 +18,42 @@
 .enlace:hover{
   color:gold;
 }
+
+.inicioDeSesion{
+  text-align: center;
+  border: solid 2px #9b9b9b;
+  height: 50%;
+  width: 50%;
+  margin: 2px;
+}
+
+.nuevaCuenta{
+  text-align: center;
+  border: solid 2px #9b9b9b;
+  height: 50%;
+  width: 50%;
+  margin: 2px;
+}
+
+footer{
+  text-align: center;
+  background: blue;
+  display: inline-grid;
+  width: 100%;
+  position:fixed;
+  bottom: 0;
+}
+
+a{
+  color: Red;
+  padding: 4px;
+}
+
+a:hover{
+    color:gold;
+}
+
+.parraPie{
+  color: Black;
+  font-size: 1em;
+}
